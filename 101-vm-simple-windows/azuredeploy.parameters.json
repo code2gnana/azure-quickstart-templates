@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-USER"
+      "value": "BobGnanesh"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "P@55word"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "gnanemc123"
     }
   }
 }
